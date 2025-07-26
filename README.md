@@ -25,24 +25,6 @@ The dashboard is built around several key metrics and visualizations:
 
 ---
 
-## 🏁 Getting Started
-
-To view and interact with this dashboard, you will need Power BI Desktop installed on your machine.
-
-### Prerequisites
-
-* **Power BI Desktop:** If you don't have it, you can download it for free from the [official Microsoft website](https://powerbi.microsoft.com/desktop/).
-
-### Installation & Setup
-
-1.  **Clone the repository** (or download the `.pbix` file):
-    ```sh
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
-    ```
-2.  **Open the file:** Navigate to the project directory and open the `Mobile_Sales_Dashboard.pbix` file with Power BI Desktop.
-
----
-
 ## 📖 Usage
 
 Once the file is open in Power BI Desktop, you can interact with the dashboard in the following ways:
