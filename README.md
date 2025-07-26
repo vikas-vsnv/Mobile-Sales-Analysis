@@ -38,4 +38,4 @@ Once the file is open in Power BI Desktop, you can interact with the dashboard i
 
 ## Dashboard Image
 
-https://github.com/vikas-vsnv/Mobile-Sales-Analysis/blob/main/dashboard%20img/Screenshot%202025-07-26%20224252.png
+![image alt](https://github.com/vikas-vsnv/Mobile-Sales-Analysis/blob/main/dashboard%20img/Screenshot%202025-07-26%20224252.png)
