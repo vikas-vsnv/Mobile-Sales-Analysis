@@ -21,7 +21,7 @@ The dashboard is built around several key metrics and visualizations:
 * **📦 Quantity Sold:** Tracks the total number of units sold, helping to identify product popularity.
 * **🧾 Total Transactions:** A count of all individual sales transactions.
 * **📊 Interactive Visuals:** Includes a variety of charts and graphs to visualize data from different perspectives.
-* ** slicer:** An interactive filter that allows users to dynamically segment the data and drill down into specific areas of interest.
+* **slicer:** An interactive filter that allows users to dynamically segment the data and drill down into specific areas of interest.
 
 ---
 
